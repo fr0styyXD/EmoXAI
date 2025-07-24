@@ -1,9 +1,9 @@
-# Speech Emotion Recognition with Explainable AI (XAI)
+# Emotion Recognition with Explainable AI (XAI)
 ## Overview
-This project delves into Speech Emotion Recognition using advanced Explainable Artificial Intelligence (XAI) techniques. The system processes speech data to identify emotions, ensuring transparent and interpretable predictions. It aims to improve real-world applications such as telehealth, education, and public safety, especially where understanding emotions is critical.
+This project delves into Emotion Recognition using advanced Explainable Artificial Intelligence (XAI) techniques. The system processes speech data to identify emotions, ensuring transparent and interpretable predictions. It aims to improve real-world applications such as telehealth, education, and public safety, especially where understanding emotions is critical.
 
 ## Objectives
-1. Accurately detect emotions from speech audio files.
+1. Accurately detect emotions from speech audio and face image files.
 2. Enhance interpretability using XAI tools to explain the decision-making process.
 3. Build a robust system capable of handling noisy audio environments.
 4. Facilitate practical applications like mental health support and remote learning.
